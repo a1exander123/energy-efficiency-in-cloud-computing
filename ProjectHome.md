@@ -1,0 +1,1 @@
+The simulator is a program developed using CloudSim in order to run a set of Use Cases for the investigation of electrical inefficiencies in cloud computing.
